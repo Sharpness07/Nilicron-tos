@@ -82,6 +82,6 @@ This Privacy Policy shall be governed by and construed in accordance with the la
     
     The arbitration award shall be final and binding on both parties. The prevailing party in any such arbitration shall be entitled to recover reasonable attorneys' fees and costs incurred in connection with the arbitration.
 
-15. #Contact Us
+15. # Contact Us
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us at [scypher632@gmail.com].
