@@ -1,10 +1,10 @@
-#Cypher Privacy Policy
+# Cypher Privacy Policy
 
-1. #Introduction 
+1. # Introduction 
    
 Welcome to Cypher ("the Bot"). This Privacy Policy outlines how we collect, use, disclose, and protect the personal information of users ("Users" or "you") who interact with our Bot. By using the Bot, you consent to the practices described in this Privacy Policy.
 
-2. #Information We Collect
+2. # Information We Collect
 
 (a) User-Provided Information: We may collect certain information that you provide directly to the Bot. This may include, Discord usernames, user IDs, messages IDs, and any other information you choose to share while using the Bot.
 
@@ -12,7 +12,7 @@ Welcome to Cypher ("the Bot"). This Privacy Policy outlines how we collect, use,
     
     (c) Cookies and Similar Technologies: We may use cookies and similar technologies to collect information about your interactions with the Bot. This information helps us improve the Bot's performance, enhance user experience, and analyze trends.
 
-3. #How We Use Your Information
+3. # How We Use Your Information
 
 We may use the information we collect from you for the following purposes:
 
@@ -26,7 +26,7 @@ We may use the information we collect from you for the following purposes:
     
     (e) Legal and Security: We may use your information to comply with legal obligations, enforce our Terms of Service, and protect the rights, property, or safety of our Users or others.
 
-4. #Sharing Your Information
+4. # Sharing Your Information
 
 We will not share your personal information with third parties, except in the following circumstances:
 
@@ -36,43 +36,43 @@ We will not share your personal information with third parties, except in the fo
     
     (c) Business Transfers: In the event of a merger, acquisition, or sale of all or a portion of our company's assets, your information may be transferred as part of the transaction.
 
-5. #Data Security
+5. # Data Security
 
 We implement reasonable measures to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. However, please understand that no method of data transmission over the internet or method of electronic storage is entirely secure. Therefore, we cannot guarantee its absolute security.
 
-6. #Data Retention
+6. # Data Retention
 
 We will retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
 
-7. #Children's Privacy
+7. # Children's Privacy
 
 The Bot is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us at [scypher632@gmail.com] to request the removal of that information from our systems.
 
-8. #Your Rights
+8. # Your Rights
 
 You have the right to access, correct, or delete the personal information we hold about you. If you wish to exercise these rights or have any concerns about your information, please contact us at [scypher632@gmail.com].
 
-9. #Changes to this Privacy Policy
+9. # Changes to this Privacy Policy
 
 We may update this Privacy Policy from time to time to reflect changes to our practices or for other operational, legal, or regulatory reasons. Any updates will be posted on this page with a revised effective date. We encourage you to review this Privacy Policy periodically for the latest information on our privacy practices.
 
-10. #International Users
+10. # International Users
 
 The Bot is hosted and operated in Bharat. If you are accessing the Bot from outside Bharat, please be aware that your information may be transferred to, stored, and processed in Bharat. By using the Bot, you consent to the transfer and processing of your information in Bharat.
 
-11. #Data Breach Notification
+11. # Data Breach Notification
 
 In the event of a data breach that compromises the security of your personal information, we will take reasonable steps to notify you and relevant authorities (if required) in accordance with applicable laws.
 
-12. #Advertising and Marketing
+12. # Advertising and Marketing
 
 We do not use your personal information for advertising or marketing purposes without your consent.
 
-13. #Consent Withdrawal
+13. # Consent Withdrawal
 
 If you wish to withdraw your consent to the processing of your personal information, please contact us at [scypher632@gmail.com]. Please note that withdrawing consent may impact your ability to use certain features or functionalities of the Bot.
 
-14. #Governing Law and Dispute Resolution
+14. # Governing Law and Dispute Resolution
 
 This Privacy Policy shall be governed by and construed in accordance with the laws of India, specifically the state of Uttarakhand. Any dispute arising out of or relating to this Privacy Policy shall be resolved through arbitration in accordance with the provisions of the Indian Arbitration and Conciliation Act, 1996.
 
